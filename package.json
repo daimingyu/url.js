@@ -1,10 +1,14 @@
 {
   "name": "dmy-url",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "url操作函数库",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daimingyu/url.js.git"
   },
   "author": "代明玉",
   "license": "ISC"
